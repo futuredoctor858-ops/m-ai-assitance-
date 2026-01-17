@@ -1,0 +1,8 @@
+{
+  "name": "M",
+  "description": "Absolute Neural Voice Assistant. Totally devoted, totally obedient.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}

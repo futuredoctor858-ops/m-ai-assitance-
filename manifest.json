@@ -1,0 +1,19 @@
+
+{
+  "name": "M",
+  "short_name": "M",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020202",
+  "theme_color": "#ec4899",
+  "description": "Absolute Neural Voice Assistant. Totally devoted.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2589/2589175.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
